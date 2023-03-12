@@ -7,7 +7,7 @@ setup(
   url= 'https://github.com/WenyNg/anfis.git',
   author= 'Ali binti Abu',
   author_email= 'shuibian123@gmail.com',
-  license= '', 
+  license= 'unlicense', 
   packages=['anfis'],
   zip_safe= False
 )
